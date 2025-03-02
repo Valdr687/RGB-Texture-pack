@@ -1,0 +1,7 @@
+{
+   "pack": {
+      "pack_format": 13,
+      "description": "RGB texture pack... becauce why not ?",
+      "supported_formats":{"min_inclusive":13,"max_inclusive":34}
+   }
+}
