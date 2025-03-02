@@ -39,7 +39,7 @@ Have you ever found yourself looking more a more colorful Minecraft experience ?
 
 ### Preview
 
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/WYYKK6Xu7B8" title="RGB Preview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![Preview](https://img.youtube.com/vi/WYYKK6Xu7B8/0.jpg)](https://www.youtube.com/watch?v=WYYKK6Xu7B8)
 
 ### Special thanks
 
