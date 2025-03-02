@@ -10,8 +10,6 @@
 
 </div>
 
-This texture pack adds RGB to all your light sources. No more drab torches and plain old glowstone!
-
 Have you ever found yourself looking more a more colorful Minecraft experience ? Looking for more interesting lights sources ? I got you covered ! Introducing the RGB texture pack (cool name not included), that turns any light into RGB.
 
 **Download :**  
