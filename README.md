@@ -2,7 +2,10 @@
 
 <img src="https://github.com/Valdr687/RGB-texture-pack/blob/main/pack.png?raw=true" alt="Pack logo" width="30%">
 
-# Vervada's enhanced plants
+# RGB Texture Pack
+
+[![Latest][img-latest]][url-latest]
+[![License](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg?style=for-the-badge)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 [![Discord][img-discord]][url-discord]
 [![GitHub][img-github]][url-github]  
@@ -17,23 +20,17 @@ Have you ever found yourself looking more a more colorful Minecraft experience ?
 
 ## Included blocks
 
-- Rgb texture for most lights
+- Rgb texture for :
+  - Sea lantern
+  - Glow item frame
+  - Redstone lamp (on)
+  - Torch
+  - Lantern
+  - Froglight
+  - End rod
+  - Beacon
 
-<details>
-
-- Sea lantern
-- Glow item frame
-- Redstone lamp (on)
-- Torch
-- Lantern
-- Froglight
-- End rod
-- Beacon
-
-</details>
-
-- Xp bar
-- If you want to add a new block, unzip the pack and use the ```template.png``` file or open [an issue](https://github.com/Valdr687/RGB-Texture-pack/issues).
+To request a new block please open [an issue](https://github.com/Valdr687/RGB-Texture-pack/issues).
 
 ### Preview
 
