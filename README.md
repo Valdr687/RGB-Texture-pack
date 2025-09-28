@@ -24,11 +24,15 @@ Have you ever found yourself looking more a more colorful Minecraft experience ?
   - Sea lantern
   - Glow item frame
   - Redstone lamp (on)
-  - Torch
-  - Lantern
-  - Froglight
-  - End rod
-  - Beacon
+  - Torches
+  - Lanterns
+  - Froglights
+  - End rods
+  - Beacons
+  - Shroomlight
+  - Magma blocks
+  - Copper bulbs
+  - Jack o' lantern
 
 To request a new block please open [an issue](https://github.com/Valdr687/RGB-Texture-pack/issues).
 
@@ -54,4 +58,4 @@ This work is licensed under a Attribution-ShareAlike 4.0 International  License.
 [url-github]: <https://github.com/Valdr687/RGB-Texture-pack>
 [url-discord]: <https://discord.com/invite/rKgAg8X>
 [url-modrinth]: <https://modrinth.com/resourcepack/rgb-texture-pack>
-[url-latest]: <https://modrinth.com/resourcepack/rgb-texture-pack/version/3>
+[url-latest]: <https://modrinth.com/resourcepack/rgb-texture-pack/version/2.0.0>
